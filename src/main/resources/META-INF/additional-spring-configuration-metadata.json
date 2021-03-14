@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "name": "notes.content_title_length",
+            "type": "java.lang.Integer",
+            "description": "Length of title when it generated from content."
+        }
+    ]
+}
